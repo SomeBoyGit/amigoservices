@@ -1,0 +1,6 @@
+ru/someboy/fraud/FraudCheckHistory.class
+ru/someboy/fraud/FraudCheckService.class
+ru/someboy/fraud/FraudCheckHistoryRepository.class
+ru/someboy/fraud/FraudController.class
+ru/someboy/fraud/FraudApplication.class
+ru/someboy/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class

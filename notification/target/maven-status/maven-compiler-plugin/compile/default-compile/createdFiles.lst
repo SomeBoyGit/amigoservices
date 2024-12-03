@@ -1,0 +1,8 @@
+ru/someboy/notification/Notification$NotificationBuilder.class
+ru/someboy/notification/Notification.class
+ru/someboy/notification/NotificationConfig.class
+ru/someboy/notification/NotificationApplication.class
+ru/someboy/notification/rabbitmq/NotificationConsumer.class
+ru/someboy/notification/NotificationController.class
+ru/someboy/notification/NotificationRepository.class
+ru/someboy/notification/NotificationService.class

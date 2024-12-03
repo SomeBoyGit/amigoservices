@@ -1,0 +1,8 @@
+ru/someboy/customer/CustomerConfig.class
+ru/someboy/customer/CustomerController.class
+ru/someboy/customer/CustomerRegistrationRequest.class
+ru/someboy/customer/CustomerService.class
+ru/someboy/customer/Customer$CustomerBuilder.class
+ru/someboy/customer/CustomerApplication.class
+ru/someboy/customer/Customer.class
+ru/someboy/customer/CustomerRepository.class

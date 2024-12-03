@@ -1,0 +1,4 @@
+ru/someboy/clients/notification/NotificationRequest.class
+ru/someboy/clients/fraud/FraudClient.class
+ru/someboy/clients/fraud/FraudCheckResponse.class
+ru/someboy/clients/notification/NotificationClient.class
